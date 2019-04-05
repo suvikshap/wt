@@ -1,0 +1,38 @@
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+body
+{
+background-image: url("back.png");
+ background-repeat:no-repeat;
+background-position:center;
+background-size:150%,150%;
+padding:20px;
+}
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.footer {
+	margin-top: 10px;
+	text-align: center;
+	background: #555;
+	padding: 5px;
+}
+
+.clr {
+	clear: both;
+}
+
+h1
+{
+text-align: center;
+}
